@@ -175,35 +175,59 @@
 
 
         <div class="col-lg-9 col-md-9 col-sm-6 col-xs-12 text-white">
-            <h2 class="super">O NAMA</h2><br><br>
+            <h2 class="super">PROIZVODI</h2><br><br>
             <div class="row" style="background: radial-gradient(ellipse farthest-corner at 50% 50%,#f4f5f5 0%,#afb0b3 100%); color:#00f; width:102%;">
-                <div class="col-lg-12">
-                    <img src="images/pansport-sivi-logo.png" class="img-responsive" alt="logo"><br>
-                    <p style="color:#000;">U moderno vreme neuravnotežene ishrane i smanjene fizičke aktivnosti, suplementi predstavljaju neizostavni deo Vašeg života, ukoliko brinete o svom zdravlju. Briga o porodici i bližnjima je jedna od najlepših ljudskih osobina, a njena najvažnija odlika je briga o zdravlju.</p>
-                    <br>
-                    <p style="color:#000;">Uz veliki entuzijazam, posvećenost i ljubav prema zdravom životu, sportu i pravilnoj ishrani, sredinom 2001. godine otvorena je prva Pansport prodavnica u Novom Sadu. U toku 15 godina poslovanja koje su usledile, Pansport postaje jedan od vodećih ovlašćenih uvoznika i distributera prirodnih dodataka ishrani za sportiste i rekreativce na ovdašnjem tržištu. Širimo mrežu svojih maloprodajnih objekata, i sada ih je 24 u Srbiji (u Beogradu 6, u Novom Sadu 3, u Nišu 2, a u ostalim gradovima gde smo prisutni po jedna) i 3 u Bosni i Hercegovini (u Banja Luci, Bijeljini i Tuzli).</p>
-                    <br>
-                    <p style="color:#000;">U manjiim gradovima i selima širom Srbije, Pansport snabdeva potrošače preko mreža apoteka, teretana, fitnes centara i direktnih distributera, kojih ima preko dvesto, što potrošačima sa ovih prostora omogućava da dođu do neophodnih dodataka ishrani. Pre svega tu mislimo na vitamine, minerale, biljne ekstrakte, proteine, kreatin, NO reaktore, amino kiseline, zatim, preparate koji se koriste za lakše i brže dobijanje telesne i mišićne mase, suplemente za poboljšanja opšteg zdravlja, sagorevače masti, preparate za oporavak, sportsku opremu i još mnogo toga. Kvalitet i zdravstvenu ispravnost proizvoda iz Pansportovog asortimana svojim sertifikatima potvrđuju renomirani proizvođači, ali i srpske nadležne institucije (Ministarstvo zdravlja i Farmaceutski faktltet Beograd), što pozitivno govori o Pansportovoj brizi o zdravlju potrošača suplemenata.</p>
-                    <br>
-                    <p style="color:#000;">Pansport kompaniju čini mlad i ambiciozan tim stručnih ljudi iz oblasti fitnesa, nutricionizma, medicine, kao i sporta i suplementacije.</p>
-                    <br>
-                    <p style="color:#000;">Kako bi održali korak s trendovima, pored sajta <a href="#">www.pansport.eu</a> stručni saradnici daju sve potrebne informacije na Pansport-ovom forumu, kao i na fan stranici društvene mreže Facebook u okviru koje možete aktivno učestvovati u diskusijama, dobiti odgovore na sva pitanja i informisati se o akcijama i super ponudama.</p>
-                    <br>
-                    <p style="color:#000;">U skladu sa trendovima, Pansport ima i svoj YouTube kanal, na kojem možete pogledati sve video-izveštaje Pansporta, sa takmičenja koje organizujemo i manifestacija na kojima učestvujemo, i Instagram profil na kojem možete pratiti i zanimljivosti koje se svakodnevno dešavaju unutar kompanije i osetiti da ste deo velike Pansport porodice.</p>
-                    <br>
-                    <h4>Kontakt</h4>
-                    <p style="color:#000;"><b>Tel:</b> 021/820-245</p>
-                    <p style="color:#000;"><b>Fax:</b> 021/820-555</p>
-                    <p style="color:#000;"><b>Mob:</b> 062/111-0-999</p>
-                    <br>
-                    <p style="color:#000;"><b>E-mail:</b> <a href="mailto:info@pansport.eu">info@pansport.eu</a></p>
-                    <br>
-                    <p style="color:#000;"><b>Adresa:</b> Stevana Peci Popovića 21, Veternik</p>
-                    <br>
-                    <p style="color:#000;">Podatke za identifikaciju možete preuzeti sa <a href="#">kontakt stranice</a>.</p>
-                    <br>
-
-
+                <div class="col-lg-12" style="margin: 20px 0;">
+                    <div class="col-lg-3">
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Amino kiseline</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Kreatin</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Povećanje performansi</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Proteinske čokoladice</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Vitamini</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Ženski kutak</button>
+                        <br>
+                    </div>
+                    <div class="col-lg-3">
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Antioksidanti</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Minerali</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Povećanje telesne težine / mišićne mase</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Sagorevači masti</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Vitaminsko mineralni kompleksi</button>
+                        <br>
+                    </div>
+                    <div class="col-lg-3">
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Biljni ekstrakti</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Oporavak i regeneracija</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Povećanje testosterona i hormona rasta</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Sportska oprema</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Zamene za obrok i proteinski napici</button>
+                        <br>
+                    </div>
+                    <div class="col-lg-3">
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Esencijalne maske kiseline</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Ostalo</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Proteini</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Transportni sistemi i NO reaktori</button>
+                        <br><br>
+                        <button type="button" class="btn btn-primary" style="width:100%; height:80px; white-space: normal;">Zaštita zglobova</button>
+                        <br>
+                    </div>
 
                 </div>
             </div>
