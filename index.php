@@ -114,7 +114,7 @@
     <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
             <h2 class="proizvodi">PROIZVODI</h2>
-            <div class="btn-group-vertical" >
+            <!--<div class="btn-group-vertical" >
                 <button class="btn btn-blue">
                     <a href="#">VITAMINI</a>
                 </button>
@@ -142,6 +142,13 @@
                 <button class="btn btn-blue">
                     <a href="#">PROTEINI</a>
                 </button>
+            </div>-->
+            <div class="list-group ">
+                <a href="#" class="list-group-item list-group-item-blue">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item list-group-item-blue">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Cras sit amet nibh libero</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Porta ac consectetur ac</a>
+                <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Vestibulum at eros</a>
             </div>
 
 
