@@ -176,7 +176,7 @@
 
         <div class="col-lg-9 col-md-9 col-sm-6 col-xs-12 text-white">
             <h2 class="super">KONTAKT</h2><br><br>
-            <div class="row" style="background: radial-gradient(ellipse farthest-corner at 50% 50%,#f4f5f5 0%,#afb0b3 100%); color:#00f;">
+            <div class="row" style="background: radial-gradient(ellipse farthest-corner at 50% 50%,#f4f5f5 0%,#afb0b3 100%); color:#00f; width:102%;">
 
 
 
