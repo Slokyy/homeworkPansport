@@ -17,12 +17,12 @@ body{
 }
 .list-group-item-blue{
     background-color:#0e197f;
-    text-decoration: none;
-    color:white;
 }
-.list-group-item-blue:hover{
-    background-color:#0e19a0;
-}
+
+/*.list-group-item-text{*/
+    /*color:white;*/
+/*}*/
+
 .super, .proizvodi {
     color: rgb(255, 255, 255);
     font-family: 'Roboto',sans-serif;

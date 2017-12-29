@@ -144,13 +144,23 @@
                 </button>
             </div>-->
             <div class="list-group ">
-                <a href="#" class="list-group-item list-group-item-blue">Dapibus ac facilisis in</a>
-                <a href="#" class="list-group-item list-group-item-blue">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item ">Dapibus ac facilisis in</a>
+                <a href="#" class="list-group-item ">Dapibus ac facilisis in</a>
                 <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Cras sit amet nibh libero</a>
                 <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Porta ac consectetur ac</a>
                 <a href="#" class="list-group-item list-group-item-action list-group-item-blue">Vestibulum at eros</a>
             </div>
-
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-blue">
+                    <p class="list-group-item-text">List Group Item Text</p>
+                </a>
+                <a href="#" class="list-group-item list-group-item-blue">
+                    <p class="list-group-item-text">List Group Item Text</p>
+                </a>
+                <a href="#" class="list-group-item list-group-item-blue">
+                    <p class="list-group-item-text">List Group Item Text</p>
+                </a>
+            </div>
 
         </div>
 
