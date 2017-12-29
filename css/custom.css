@@ -12,6 +12,39 @@ body{
     padding-top:10px;
 }
 
+.thumbnail {
+    background: transparent;
+}
+.super, .proizvodi {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto',sans-serif;
+    font-feature-settings: normal;
+    font-kerning: auto;
+    font-language-override: normal;
+    font-size: 32px;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-variant-alternates: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-variant-position: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.proizvodi{
+    font-size:22px;
+}
+
+.supericon {
+    color: rgb(246, 1, 118);
+    content: "///";
+}
 
 .text-white, a:hover {
     color:#fff;

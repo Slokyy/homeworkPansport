@@ -62,25 +62,22 @@
                     <span class="glyphicon glyphicon-home"></span>
                 </a>
             </div>
+            <!--
+                    home page
+                    proizvodi
+                    vesti
+                    o nama
+                    kontakt
+                    -->
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php">POČETNA <span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">PRODAVNICE</a></li>
                     <li><a href="#">PROIZVODI</a></li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">TEKSTOTEKA
-                            <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Dodaci ishrani - suplementacija</a></li>
-                            <li><a href="#">Često postavljena pitanja</a></li>
-                            <li><a href="#">Ishrana</a></li>
-                            <li><a href="#">Vežbanje</a></li>
-                            <li><a href="#">Zdravlje</a></li>
-                        </ul>
-                    </li>
                     <li><a href="#">VESTI</a></li>
+                    <li><a href="#">O NAMA</a></li>
+                    <li><a href="#">KONTAKT</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -115,8 +112,8 @@
         </a>
     </div>
     <div class="row">
-
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <h2 class="proizvodi">PROIZVODI</h2>
             <div class="btn-group-vertical" >
                 <button class="btn btn-blue">
                     <a href="#">VITAMINI</a>
@@ -151,12 +148,102 @@
         </div>
 
 
-        <div class="col-lg-9 col-md-9 col-sm-6 col-xs-12">
-            <div class=""></div>
+        <div class="col-lg-9 col-md-9 col-sm-6 col-xs-12 text-white">
+            <div class="row">
+                <h2 class="super">SUPER PONUDA <span class="supericon"><span class="glyphicon glyphicon-flash"></span><span class="glyphicon glyphicon-flash"></span><span class="glyphicon glyphicon-flash"></span></span></h2>
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="thumbnail card h-100">
+                        <a href="#"><img class="card-img-top" src="http://placehold.it/250x200" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="#">Item Five</a>
+                            </h4>
+                            <h5>$24.99</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
+                        </div>
+                        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default pull-right" role="button">Button</a></p>
+                    </div>
+                </div>
+
+            </div>
+            <!-- /.row -->
 
         </div>
+                <!-- /.col-lg-9 -->
     </div>
+    <div class="panel-footer">
 
+    </div>
 
 </div>
 
@@ -166,3 +253,4 @@
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
+
