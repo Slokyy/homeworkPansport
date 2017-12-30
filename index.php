@@ -69,10 +69,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.php">POČETNA <span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">PROIZVODI</a></li>
-                    <li><a href="#">VESTI</a></li>
-                    <li><a href="#">O NAMA</a></li>
-                    <li><a href="#">KONTAKT</a></li>
+                    <li><a href="proizvodi.php">PROIZVODI</a></li>
+                    <li><a href="vesti.php">VESTI</a></li>
+                    <li><a href="o_nama.php">O NAMA</a></li>
+                    <li><a href="kontakt.php">KONTAKT</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
@@ -133,6 +133,81 @@
                     <a href="#" class="list-group-item zene ">ŽENSKI KUTAK</a>
                 </div>
             </nav>
+            <div class="row bg-black">
+                <h2 class="proizvodi text-white text-center">U PONUDI <span class="supericonf">///</span></h2>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/4badc3ac17da6.png" alt="baner1">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/285-x-135-alimenta.png" alt="baner2">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/biotechusa_logo_1__0.png" alt="baner3">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/bodyattack.png" alt="baner4">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/dym_2016.png" alt="baner5">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/efx.png" alt="baner6">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/ess_j.jpg" alt="baner7">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/grenade.jpg" alt="baner8">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/labrada.png" alt="baner9">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/logoinkosporwhite.png" alt="baner10">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/maxler.png" alt="baner11">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/mp.png" alt="baner12">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/muscle-tech.png" alt="baner13">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/natrol-inc.png" alt="baner14">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/now-foods.png" alt="baner15">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/nut.png" alt="baner16">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/power.png" alt="baner17">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/prolab_0.png" alt="baner18">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/san_logo.png" alt="baner19">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/scitec-nutrition.png" alt="baner20">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/sportska-oprema.png" alt="baner21">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/syntrax_logomali_0.png" alt="baner22">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/twinlab.png" alt="baner23">
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <img class="img-responsive" src="images/baneri/uni.png" alt="baner24">
+                </div>
+            </div>
         </div>
 
 

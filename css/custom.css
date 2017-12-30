@@ -20,7 +20,7 @@ body{
     background: transparent;
 }
 
-.super, .proizvodi, .foot {
+.super, .proizvodi, .foot, .kontakt, .kontakt1 {
     color: rgb(255, 255, 255);
     font-family: 'Roboto',sans-serif;
     font-feature-settings: normal;
@@ -42,8 +42,21 @@ body{
     margin-left: 10px;
     text-transform: uppercase;
 }
-.proizvodi{
+.proizvodi, .kontakt, .kontakt1 {
     font-size:22px;
+    font-style: italic;
+    color:blue;
+}
+
+.kontakt1 {
+    font-size:18px;
+}
+
+p.text-black {
+    color: #000;
+    text-decoration: none;
+    font-weight: 700;
+    font-family:"Roboto",sans-serif;
 }
 
 .foot{
@@ -117,6 +130,9 @@ a.zene{
 
 }
 
+.bg-black{
+    background-color:#000;
+}
 
 /* klasa za search iznad navbara   */
 #imaginary_container{
