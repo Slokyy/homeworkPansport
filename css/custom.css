@@ -11,19 +11,16 @@ body{
     padding-bottom: 0;
     padding-top:10px;
 }
+.jumbotron.blue{
+    background:#0e19be;
+    padding:12px;
+}
 
 .thumbnail {
     background: transparent;
 }
-.list-group-item-blue{
-    background-color:#0e197f;
-}
 
-/*.list-group-item-text{*/
-    /*color:white;*/
-/*}*/
-
-.super, .proizvodi {
+.super, .proizvodi, .foot {
     color: rgb(255, 255, 255);
     font-family: 'Roboto',sans-serif;
     font-feature-settings: normal;
@@ -32,7 +29,7 @@ body{
     font-size: 32px;
     font-size-adjust: none;
     font-stretch: normal;
-    font-style: italic;
+    /*font-style: italic;*/
     font-variant: normal;
     font-variant-alternates: normal;
     font-variant-caps: normal;
@@ -48,6 +45,10 @@ body{
 .proizvodi{
     font-size:22px;
 }
+
+.foot{
+    font-size:22px;
+}
 .row{
     padding:1px;
 }
@@ -56,6 +57,19 @@ body{
     color: rgb(246, 1, 118);
     content: "///";
 }
+.supericony{
+    color: rgb(255,255,0);
+}
+.supericong{
+    color: rgb(2, 210, 26);
+}
+.supericono{
+    color: rgb(255, 141, 31);
+}
+.supericonf {
+    color: rgb(37, 70, 255);
+}
+
 
 .text-white, a:hover {
     color:#fff;
@@ -86,6 +100,23 @@ body{
     padding-left:5px;
 
 }
+
+.btn-blue-o {
+    background: linear-gradient(to right, #0e197f, #330c8b);
+    text-decoration: none;
+    color:#fff;
+}
+.btn-blue-o:hover {
+    background: linear-gradient(to right, #0e197f, #330c8b);
+    text-decoration: none;
+    color:#fff;
+}
+
+a.zene{
+    background: linear-gradient(to right, #d407c5, #4a0b8b);
+
+}
+
 
 /* klasa za search iznad navbara   */
 #imaginary_container{
@@ -198,5 +229,7 @@ body{
         background-color: #221af7;
     }
 }
+
+
 
 
