@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Pansport</title>
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -122,7 +122,7 @@
                 <div class="row">
                     <button class="btn btn-blue btn-block hidden-lg hidden-md hidden-sm col-xs-12 " data-toggle="collapse" data-target="#side"><span class="glyphicon glyphicon-align-justify"></span></button>
                 </div>
-                <div class="list-group collapsed-xs" id="side">
+                <div class="list-group collapse navbar-collapse" id="side">
                     <a href="#" class="list-group-item ">VITAMINI</a>
                     <a href="#" class="list-group-item ">MINERALI</a>
                     <a href="#" class="list-group-item ">VITAMINSKO MINERALNI KOMPLEKSI</a>
