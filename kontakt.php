@@ -143,7 +143,9 @@
                 </div>
             </nav>
             <div class="row bg-black">
-                <h2 class="proizvodi text-white text-center">U PONUDI <span class="supericonf">///</span></h2>
+                <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                    <h2 class="proizvodi text-white text-center">U PONUDI <span class="supericonf">///</span></h2>
+                </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
                     <img class="img-responsive" src="images/baneri/4badc3ac17da6.png" alt="baner1">
                 </div>

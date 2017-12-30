@@ -119,7 +119,10 @@
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
             <h2 class="proizvodi">PROIZVODI<span class="supericony"><span class="glyphicon glyphicon-flash"></span><span class="glyphicon glyphicon-flash"></span><span class="glyphicon glyphicon-flash"></span></span></h2>
             <nav class="nav-sidebar">
-                <div class="list-group" id="demo">
+                <div class="row">
+                    <button class="btn btn-blue btn-block hidden-lg hidden-md hidden-sm col-xs-12 " data-toggle="collapse" data-target="#side"><span class="glyphicon glyphicon-align-justify"></span></button>
+                </div>
+                <div class="list-group collapsed-xs" id="side">
                     <a href="#" class="list-group-item ">VITAMINI</a>
                     <a href="#" class="list-group-item ">MINERALI</a>
                     <a href="#" class="list-group-item ">VITAMINSKO MINERALNI KOMPLEKSI</a>
@@ -142,7 +145,9 @@
                     <a href="#" class="list-group-item zene ">ŽENSKI KUTAK</a>
                 </div>
                 <div class="row bg-black">
-                    <h2 class="proizvodi text-white text-center">U PONUDI <span class="supericonf">///</span></h2>
+                    <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
+                        <h2 class="proizvodi text-white text-center">U PONUDI <span class="supericonf">///</span></h2>
+                    </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 hidden-xs">
                         <img class="img-responsive" src="images/baneri/4badc3ac17da6.png" alt="baner1">
                     </div>
