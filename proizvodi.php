@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Pansport</title>
+    <title>Pansport - Proizvodi</title>
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -22,6 +22,8 @@
             border-bottom:none;
         }
     </style>
+
+    <meta name="description" content="Prirodni dodaci ishrani za sportiste, rekreativce i za sve one kojima je zdravlje na prvom mestu">
 </head>
 <body>
 <div class="container">

@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="assets/css/Footer-with-button-logo.css">
 
     <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <meta name="description" content="Prirodni dodaci ishrani za sportiste, rekreativce i za sve one kojima je zdravlje na prvom mestu">
+
 </head>
 <body>
 <div class="container">

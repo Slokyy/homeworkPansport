@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteBase /public_html/
+#Options +FollowSymLinks +Includes -MultiViews
+RewriteRule ^index/ index.php [NC]
+RewriteRule ^o-nama/ o_nama.php [NC]
+RewriteRule ^kontakt/ kontakt.php [NC]
+RewriteRule ^proizvodi/ proizvodi.php [NC]
+RewriteRule ^vesti/ vesti.php [NC]
+# Disable directory browsing 
+Options -Indexes
+# HTID:3843486: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:3843486:
